@@ -42,5 +42,4 @@ A portfolio of end-to-end Data Analytics projects combining:
 SQL + Excel + Python + Power BI
 
 ## 📫 Connect With Me
-
-[LinkedIn]: https://www.linkedin.com/in/satyam-sharma-pm/
+https://www.linkedin.com/in/satyam-sharma-pm/
